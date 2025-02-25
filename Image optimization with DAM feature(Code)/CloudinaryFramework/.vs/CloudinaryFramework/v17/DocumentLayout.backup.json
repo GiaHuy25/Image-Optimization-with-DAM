@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\iimageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\iimageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\models\\imagetransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\models\\imagetransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\models\\imagemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\models\\imagemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|e:\\githubfile\\image-optimization-with-dam\\image optimization with dam feature(code)\\cloudinaryframework\\cloudinaryframework\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3758F455-4E84-48F3-9CBC-C753E1C17E94}|CloudinaryFramework\\CloudinaryFramework.csproj|solutionrelative:cloudinaryframework\\models\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageProcessingService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ImageProcessingService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\ImageProcessingService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ImageProcessingService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\ImageProcessingService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:29:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IImageProcessingService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\IImageProcessingService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\IImageProcessingService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\IImageProcessingService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\IImageProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:28:28.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageTransformation.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\ImageTransformation.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Models\\ImageTransformation.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\ImageTransformation.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Models\\ImageTransformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:22:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\ImageService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ImageService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\ImageService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:55:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CloudinaryFramework\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:24:47.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageMetadata.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\ImageMetadata.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Models\\ImageMetadata.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\ImageMetadata.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Models\\ImageMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:22:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Worker.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Worker.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Worker.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:20:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\IImageService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\IImageService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:54:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Models\\Image.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\Image.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:27:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Program.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Program.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Program.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:25:24.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITenantService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ITenantService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\ITenantService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\ITenantService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\ITenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:30:40.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Services\\TenantService.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Services\\TenantService.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Services\\TenantService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:36:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\appsettings.json",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\appsettings.json",
+              "RelativeToolTip": "CloudinaryFramework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T14:25:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\Tenant.cs",
+              "RelativeDocumentMoniker": "CloudinaryFramework\\Models\\Tenant.cs",
+              "ToolTip": "E:\\githubfile\\Image-Optimization-with-DAM\\Image optimization with DAM feature(Code)\\CloudinaryFramework\\CloudinaryFramework\\Models\\Tenant.cs",
+              "RelativeToolTip": "CloudinaryFramework\\Models\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:26:34.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
