@@ -1,4 +1,5 @@
 ﻿using System.Threading.Tasks;
+using CloudinaryFramework.Data;
 using CloudinaryFramework.Models;
 using CloudinaryFramework.Services;
 using Microsoft.EntityFrameworkCore;

@@ -1,4 +1,5 @@
-﻿using CloudinaryFramework.Models;
+﻿using CloudinaryFramework.Data;
+using CloudinaryFramework.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CloudinaryFramework.Services

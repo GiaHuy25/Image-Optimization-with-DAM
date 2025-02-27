@@ -1,4 +1,5 @@
 using System;
+using CloudinaryFramework.Data;
 using CloudinaryFramework.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;

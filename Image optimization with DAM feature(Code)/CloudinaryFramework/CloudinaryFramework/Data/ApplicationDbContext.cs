@@ -1,7 +1,6 @@
 ﻿using CloudinaryFramework.Models;
 using Microsoft.EntityFrameworkCore;
-using static System.Net.Mime.MediaTypeNames;
-namespace CloudinaryFramework
+namespace CloudinaryFramework.Data
 {
     public class ApplicationDbContext : DbContext
     {
